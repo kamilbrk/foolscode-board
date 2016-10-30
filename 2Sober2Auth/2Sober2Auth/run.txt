@@ -1,0 +1,318 @@
+Process /home/root//2Sober2Auth created; pid = 1088
+Listening on port 2000
+Remote debugging from host 192.168.7.1
+Press 'Enter' to take a reading.
+
+Taking "clean" air reading for 2 seconds.
+1.000
+2.000
+Average Clean Air Volts: 0.177
+Clean Air Resistance: 27.312
+
+Press 'Enter' to take a reading when you're ready.
+
+Taking breath reading for 5 seconds.
+0.000
+1.000
+2.000
+3.000
+4.000
+5.000
+User Breath Reading Rs/R0: 0.948
+
+Encoded Hex String: f4342ad2
+Press 'Enter' to take a reading.
+
+Taking "clean" air reading for 2 seconds.
+0.000
+1.000
+2.000
+Average Clean Air Volts: 0.186
+Clean Air Resistance: 25.861
+
+Press 'Enter' to take a reading when you're ready.
+
+Taking breath reading for 5 seconds.
+0.000
+1.000
+2.000
+3.000
+4.000
+5.000
+User Breath Reading Rs/R0: 1.013
+
+Encoded Hex String: 91d0ee76
+Press 'Enter' to take a reading.
+
+Taking "clean" air reading for 2 seconds.
+0.000
+1.000
+2.000
+Average Clean Air Volts: 0.209
+Clean Air Resistance: 22.869
+
+Press 'Enter' to take a reading when you're ready.
+
+Taking breath reading for 5 seconds.
+0.000
+1.000
+2.000
+3.000
+4.000
+5.000
+User Breath Reading Rs/R0: 1.033
+
+Encoded Hex String: 8efdc577
+Press 'Enter' to take a reading.
+
+Taking "clean" air reading for 2 seconds.
+0.000
+1.000
+2.000
+Average Clean Air Volts: 0.203
+Clean Air Resistance: 23.667
+
+Press 'Enter' to take a reading when you're ready.
+
+Taking breath reading for 5 seconds.
+0.000
+1.000
+2.000
+3.000
+4.000
+5.000
+User Breath Reading Rs/R0: 0.075
+
+Encoded Hex String: 39508193
+Press 'Enter' to take a reading.
+
+Taking "clean" air reading for 2 seconds.
+0.000
+1.000
+2.000
+Average Clean Air Volts: 1.799
+Clean Air Resistance: 1.779
+
+Press 'Enter' to take a reading when you're ready.
+
+Taking breath reading for 5 seconds.
+0.000
+1.000
+2.000
+3.000
+4.000
+5.000
+User Breath Reading Rs/R0: 1.000
+
+Encoded Hex String: f697ae23
+Press 'Enter' to take a reading.
+
+Taking "clean" air reading for 2 seconds.
+0.000
+1.000
+2.000
+Average Clean Air Volts: 0.277
+Clean Air Resistance: 17.030
+
+Press 'Enter' to take a reading when you're ready.
+
+Taking breath reading for 5 seconds.
+0.000
+1.000
+2.000
+3.000
+4.000
+5.000
+User Breath Reading Rs/R0: 0.996
+
+Encoded Hex String: 94eeb980
+Press 'Enter' to take a reading.
+
+Taking "clean" air reading for 2 seconds.
+0.000
+1.000
+2.000
+Average Clean Air Volts: 0.278
+Clean Air Resistance: 16.992
+
+Press 'Enter' to take a reading when you're ready.
+
+Taking breath reading for 5 seconds.
+0.000
+1.000
+2.000
+3.000
+4.000
+5.000
+User Breath Reading Rs/R0: 0.996
+
+Encoded Hex String: 94eeb980
+Press 'Enter' to take a reading.
+
+Taking "clean" air reading for 2 seconds.
+0.000
+1.000
+2.000
+Average Clean Air Volts: 0.285
+Clean Air Resistance: 16.553
+
+Press 'Enter' to take a reading when you're ready.
+
+Taking breath reading for 5 seconds.
+0.000
+1.000
+2.000
+3.000
+4.000
+5.000
+User Breath Reading Rs/R0: 0.996
+
+Encoded Hex String: 94eeb980
+Press 'Enter' to take a reading.
+
+Taking "clean" air reading for 2 seconds.
+0.000
+1.000
+2.000
+Average Clean Air Volts: 0.274
+Clean Air Resistance: 17.238
+
+Press 'Enter' to take a reading when you're ready.
+
+Taking breath reading for 5 seconds.
+0.000
+1.000
+2.000
+3.000
+4.000
+5.000
+User Breath Reading Rs/R0: 0.103
+
+Encoded Hex String: b7243187
+Press 'Enter' to take a reading.
+
+Taking "clean" air reading for 2 seconds.
+0.000
+1.000
+2.000
+Average Clean Air Volts: 0.312
+Clean Air Resistance: 15.015
+
+Press 'Enter' to take a reading when you're ready.
+
+Taking breath reading for 5 seconds.
+0.000
+1.000
+2.000
+3.000
+4.000
+5.000
+User Breath Reading Rs/R0: 0.392
+
+Encoded Hex String: f5d916e7
+Press 'Enter' to take a reading.
+
+Taking "clean" air reading for 2 seconds.
+0.000
+1.000
+2.000
+Average Clean Air Volts: 0.462
+Clean Air Resistance: 9.813
+
+Press 'Enter' to take a reading when you're ready.
+
+Taking breath reading for 5 seconds.
+0.000
+1.000
+2.000
+3.000
+4.000
+5.000
+User Breath Reading Rs/R0: 1.111
+
+Encoded Hex String: f5e8f761
+Press 'Enter' to take a reading.
+
+Taking "clean" air reading for 2 seconds.
+0.000
+1.000
+2.000
+Average Clean Air Volts: 0.391
+Clean Air Resistance: 11.793
+
+Press 'Enter' to take a reading when you're ready.
+
+Taking breath reading for 5 seconds.
+0.000
+1.000
+2.000
+3.000
+4.000
+5.000
+User Breath Reading Rs/R0: 1.017
+
+Encoded Hex String: 55cd2b52
+Press 'Enter' to take a reading.
+
+Taking "clean" air reading for 2 seconds.
+0.000
+1.000
+2.000
+Average Clean Air Volts: 0.329
+Clean Air Resistance: 14.185
+
+Press 'Enter' to take a reading when you're ready.
+
+Taking breath reading for 5 seconds.
+0.000
+1.000
+2.000
+3.000
+4.000
+5.000
+User Breath Reading Rs/R0: 0.855
+
+Encoded Hex String: 1f3028e5
+Press 'Enter' to take a reading.
+
+Taking "clean" air reading for 2 seconds.
+0.000
+1.000
+2.000
+Average Clean Air Volts: 0.282
+Clean Air Resistance: 16.742
+
+Press 'Enter' to take a reading when you're ready.
+
+Taking breath reading for 5 seconds.
+0.000
+1.000
+2.000
+3.000
+4.000
+5.000
+User Breath Reading Rs/R0: 1.001
+
+Encoded Hex String: 1040e7c4
+Press 'Enter' to take a reading.
+
+Taking "clean" air reading for 2 seconds.
+0.000
+1.000
+2.000
+Average Clean Air Volts: 0.271
+Clean Air Resistance: 17.442
+
+Press 'Enter' to take a reading when you're ready.
+
+Taking breath reading for 5 seconds.
+0.000
+1.000
+2.000
+3.000
+4.000
+5.000
+User Breath Reading Rs/R0: 0.223
+
+Encoded Hex String: 855d3374
+Press 'Enter' to take a reading.

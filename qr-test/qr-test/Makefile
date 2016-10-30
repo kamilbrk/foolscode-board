@@ -35,7 +35,7 @@ error:
 	$(error Invalid configuration, please check your inputs)
 endif
 
-SOURCEFILES := BlackCore.cpp BlackI2C.cpp CaptureDevice.cpp decode.c identify.c qr-test.cpp quirc.c version_db.c
+SOURCEFILES := BlackCore.cpp CaptureDevice.cpp qr-test.cpp
 EXTERNAL_LIBS := 
 EXTERNAL_LIBS_COPIED := $(foreach lib, $(EXTERNAL_LIBS),$(BINARYDIR)/$(notdir $(lib)))
 

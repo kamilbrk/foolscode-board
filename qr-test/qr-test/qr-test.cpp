@@ -1,7 +1,5 @@
 #include <iostream>
 #include <unistd.h>
-#include "BlackDef.h"
-#include "BlackI2C.h"
 #include "CaptureDevice.h"
 #include "quirc.h"
 
@@ -12,10 +10,6 @@
 #define LCD_ENTRYSHIFTDECREMENT 0x00
 
 using namespace std;
-
-BlackLib::BlackI2C* i2c;
-
-void sendCommand(uint8_t cmd);
 
 int main(int argc, char *argv[])
 {
@@ -72,10 +66,4 @@ int main(int argc, char *argv[])
 	camera->stopCapturing();
 	camera->closeDevice();
 	exit(EXIT_FAILURE);
-}
-
-void sendCommand(uint8_t cmd)
-{
-	unsigned char packet[] = { 0x80, cmd };
-	i2c->writeBlock(0x7c >> 1, packet, 2);
 }

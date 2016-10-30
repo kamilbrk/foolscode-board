@@ -29,16 +29,7 @@
     <ClCompile Include="CaptureDevice.cpp">
       <Filter>Source files</Filter>
     </ClCompile>
-    <ClCompile Include="decode.c">
-      <Filter>Source files</Filter>
-    </ClCompile>
-    <ClCompile Include="identify.c">
-      <Filter>Source files</Filter>
-    </ClCompile>
-    <ClCompile Include="quirc.c">
-      <Filter>Source files</Filter>
-    </ClCompile>
-    <ClCompile Include="version_db.c">
+    <ClCompile Include="BlackCore.cpp">
       <Filter>Source files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -64,7 +55,13 @@
     <ClInclude Include="quirc.h">
       <Filter>Header files</Filter>
     </ClInclude>
-    <ClInclude Include="quirc_internal.h">
+    <ClInclude Include="BlackCore.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="BlackDef.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="BlackErr.h">
       <Filter>Header files</Filter>
     </ClInclude>
   </ItemGroup>

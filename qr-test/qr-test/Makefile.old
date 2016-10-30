@@ -35,8 +35,8 @@ error:
 	$(error Invalid configuration, please check your inputs)
 endif
 
-SOURCEFILES := CaptureDevice.cpp decode.c identify.c qr-test.cpp quirc.c version_db.c
-EXTERNAL_LIBS := 
+SOURCEFILES := BlackCore.cpp CaptureDevice.cpp qr-test.cpp
+EXTERNAL_LIBS := libquirc.a
 EXTERNAL_LIBS_COPIED := $(foreach lib, $(EXTERNAL_LIBS),$(BINARYDIR)/$(notdir $(lib)))
 
 CFLAGS += $(COMMONFLAGS)
@@ -179,3 +179,6 @@ $(BINARYDIR)/%.o : %.cxx $(all_make_files) |$(BINARYDIR)
 	$(CC) $(CFLAGS) $(CXXFLAGS) -c $< -o $@ -MD -MF $(@:.o=.dep)
 
 #VisualGDB: GeneratedRules				#<--- All lines below are auto-generated
+$(BINARYDIR)/libquirc.a : libquirc.a
+	$(CP) libquirc.a $(BINARYDIR)/libquirc.a
+

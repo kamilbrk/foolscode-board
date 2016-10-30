@@ -64,13 +64,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BlackCore.cpp" />
-    <ClCompile Include="BlackI2C.cpp" />
     <ClCompile Include="CaptureDevice.cpp" />
-    <ClCompile Include="decode.c" />
-    <ClCompile Include="identify.c" />
     <ClCompile Include="qr-test.cpp" />
-    <ClCompile Include="quirc.c" />
-    <ClCompile Include="version_db.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="debug.mak" />
@@ -83,10 +78,8 @@
     <ClInclude Include="BlackCore.h" />
     <ClInclude Include="BlackDef.h" />
     <ClInclude Include="BlackErr.h" />
-    <ClInclude Include="BlackI2C.h" />
     <ClInclude Include="CaptureDevice.h" />
     <ClInclude Include="quirc.h" />
-    <ClInclude Include="quirc_internal.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

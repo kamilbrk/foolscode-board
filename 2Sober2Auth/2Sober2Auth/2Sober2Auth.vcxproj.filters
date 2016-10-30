@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source files">
+      <UniqueIdentifier>{83c97e05-1272-4d9a-b8ba-4d59ed43506d}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header files">
+      <UniqueIdentifier>{3d90efbf-888b-4a44-a109-111c15c26d14}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource files">
+      <UniqueIdentifier>{f6930f21-10b5-4ad1-95cb-ac6ffd435e61}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="Make files">
+      <UniqueIdentifier>{58cfae8d-385c-4e2f-ab80-4b7d51d2e0c3}</UniqueIdentifier>
+      <Extensions>*.mak</Extensions>
+    </Filter>
+    <Filter Include="VisualGDB settings">
+      <UniqueIdentifier>{be3945aa-2b8e-45dc-b6a6-8ee80712afae}</UniqueIdentifier>
+      <Extensions>*.vgdbsettings</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="2Sober2Auth.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="BlackADC.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="BlackCore.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="skip32.cc">
+      <Filter>Source files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Makefile" />
+    <None Include="debug.mak">
+      <Filter>Make files</Filter>
+    </None>
+    <None Include="2Sober2Auth-Debug.vgdbsettings">
+      <Filter>VisualGDB settings</Filter>
+    </None>
+    <None Include="release.mak">
+      <Filter>Make files</Filter>
+    </None>
+    <None Include="2Sober2Auth-Release.vgdbsettings">
+      <Filter>VisualGDB settings</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BlackADC.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="BlackCore.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="BlackDef.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="BlackErr.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="skip32.hh" />
+  </ItemGroup>
+</Project>
