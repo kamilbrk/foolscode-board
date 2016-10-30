@@ -15,7 +15,7 @@ OBJCOPY := C:/SysGCC/Beaglebone/bin/arm-angstrom-linux-gnueabi-objcopy.exe
 PREPROCESSOR_MACROS := DEBUG=1
 INCLUDE_DIRS := 
 LIBRARY_DIRS := 
-LIBRARY_NAMES := opencv_core
+LIBRARY_NAMES := pthread opencv_core opencv_highgui opencv_imgproc
 ADDITIONAL_LINKER_INPUTS := 
 MACOS_FRAMEWORKS := 
 LINUX_PACKAGES := 

@@ -29,6 +29,18 @@
     <ClCompile Include="CaptureDevice.cpp">
       <Filter>Source files</Filter>
     </ClCompile>
+    <ClCompile Include="decode.c">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="identify.c">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="quirc.c">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="version_db.c">
+      <Filter>Source files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Makefile" />
@@ -47,6 +59,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CaptureDevice.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="quirc.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="quirc_internal.h">
       <Filter>Header files</Filter>
     </ClInclude>
   </ItemGroup>
